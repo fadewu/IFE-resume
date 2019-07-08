@@ -1,0 +1,39 @@
+/*
+*这是样式表1
+*清除掉浏览器原本的body样式。
+*margin:0px;
+*padding:9px;
+*/
+body{
+    margin:0px;
+    padding:9px;
+}
+
+/* 这是外包裹层，相当于简历中的A4纸张 */
+.wrap{
+    padding:50px;
+    border:1px solid rgb(153, 151, 151);
+    width:50%;
+}
+
+.contact>p>span,.bascInfo>p>span{
+    padding-right:30px;
+}
+
+.contact>p>span>strong,.bascInfo>p>span>strong{
+    padding-right:8px;
+}
+
+h3{
+    height:10px;
+}
+section{
+    border-bottom: 1px solid rgb(146, 144, 144);
+}
+header{
+    margin-top:-30px;
+}
+
+
+
+

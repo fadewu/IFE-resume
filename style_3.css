@@ -1,0 +1,65 @@
+
+
+body{
+    padding:40px 200px;
+    margin:0px;
+}
+
+.wrap{
+    border:1px solid rgb(204, 204, 204);
+    float: left;
+}
+
+h1{
+    background: rgb(131, 106, 106);
+    color: white;
+    padding:20px;
+    margin: 0px;
+}
+
+
+/* section>h2{
+    float: left;
+    background: rgb(57, 124, 129);
+}
+section>p{
+    float: left;
+    background: rgb(187, 73, 73);
+} */
+.contact>p>span,.bascInfo>p>span{
+    padding-right:30px;
+}
+
+.contact>p>span>strong,.bascInfo>p>span>strong{
+    padding-right:8px;
+}
+
+h3{
+    height:10px;
+}
+
+section{
+    float: left;
+    width: 100%;
+    min-height:100px;
+    border-top:1px solid  rgb(204, 204, 204);
+    
+}
+
+h2{
+padding:10px;
+float: left;
+padding:5px 20px;
+background: rgb(204, 199, 199);
+min-height:160px;
+margin: 0px;
+border-bottom: 1px solid rgb(250, 246, 246);
+
+}
+.content-det{
+    float: left;
+    padding:10px;
+}
+
+
+
